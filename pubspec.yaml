@@ -16,7 +16,7 @@ dependencies:
   path_provider: ^2.0.1
   crypto: ^3.0.1
   uuid: ^3.0.4
-  http: ^0.13.3
+  http: ^1.1.0
   package_info_plus: ^4.2.0
   synchronized: ^3.0.0
   glob: ^2.0.1
